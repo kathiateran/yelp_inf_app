@@ -1,2 +1,2 @@
-Find working app below:
+Find working app here:
 https://yelpinfluencerrecs.netlify.app/
